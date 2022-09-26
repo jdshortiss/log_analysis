@@ -15,6 +15,22 @@ Project consists of a backend PYTHON script which parses .log files needed infor
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Placeholder:<br/>
-<img src="https://i.imgur.com/MHBh64E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open RLAv102_frontend:<br/>
+<img src="https://i.imgur.com/AfUDMA8.jpeg" height="80%" width="80%" alt="Open"/>
+</p>
+<p align="center">
+Browse for folder:<br/>
+<img src="https://i.imgur.com/oW5SCKY.jpeg" height="80%" width="80%" alt="Browse"/>
+</p>
+<p align="center">
+Select log:<br/>
+<img src="https://i.imgur.com/RB7wvJm.jpeg" height="80%" width="80%" alt="Open"/>
+</p>
+<p align="center">
+View analysis:<br/>
+<img src="https://i.imgur.com/UGiHg9b.jpeg" height="80%" width="80%" alt="Open"/>
+</p>
+<p align="center">
+View multiple logs:<br/>
+<img src="https://i.imgur.com/SEfXazw.jpeg" height="80%" width="80%" alt="Open"/>
 </p>
