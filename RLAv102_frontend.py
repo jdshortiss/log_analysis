@@ -69,6 +69,7 @@ class MainWindow(QMainWindow):
         else:
             self.button_browse.setText(self.directory)  # Add logs to dropdown
             self.logs = RLAv102_backend.Logs_in_dir(self.directory).get_logs()
+            self.file_select.clear()
             for files in self.logs:
                 self.file_select.addItem(files)
 
