@@ -26,3 +26,6 @@ Browse for folder: Find the folder you want to search for .log files. <br/>
 Select log: Select the log you want parsed for analysis.<br/>
 <img src="https://i.imgur.com/RB7wvJm.jpeg" height="40%" width="40%" alt="Open"/>
 </p>
+<p align="center">
+Clicking OK will open up a new window named for your selected log file. This window shows render name, username, time, memory, machine utilization, warnings and errors.<br/>
+</p>
