@@ -26,11 +26,3 @@ Browse for folder: Find the folder you want to search for .log files. <br/>
 Select log: Select the log you want parsed for analysis.<br/>
 <img src="https://i.imgur.com/RB7wvJm.jpeg" height="40%" width="40%" alt="Open"/>
 </p>
-<p align="center">
-View analysis: Find a summary of render time, memory usage, all errors and warnings.<br/>
-<img src="https://i.imgur.com/UGiHg9b.jpeg" height="80%" width="80%" alt="Open"/>
-</p>
-<p align="center">
-View multiple logs: You can open multiple .log files from the same folder.<br/>
-<img src="https://i.imgur.com/SEfXazw.jpeg" height="80%" width="80%" alt="Open"/>
-</p>
