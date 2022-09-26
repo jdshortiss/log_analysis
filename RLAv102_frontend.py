@@ -59,6 +59,7 @@ class MainWindow(QMainWindow):
 
     def browse_button_was_clicked(self):  # Browse button function
         self.directory = QFileDialog.getExistingDirectory()
+        self.selections = 0
         if self.directory == '':  # No directory error
             msg = QMessageBox()
             msg.setIcon(QMessageBox.Critical)
